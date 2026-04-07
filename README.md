@@ -18,6 +18,7 @@ Sou um solucionador de problemas por natureza. Com mais de 10 anos de trajetóri
 * **Gestão e Processos:** PMO, Metodologias Ágeis, Jira, PDCA, Poka-yoke.
 
 ---
-**[Acesse meu Portfólio Técnico](https://denistostes.figma.site)** para conhecer os bastidores dos meus projetos, códigos e arquiteturas operacionais.
+### Links & Contato
 
-**[Conecte-se comigo no LinkedIn](https://linkedin.com/in/denistostes)**
+* **Portfólio Técnico:** [Acessar Portfólio](https://denistostes.figma.site) — Conheça os bastidores dos meus projetos, códigos e arquiteturas operacionais.
+* **LinkedIn:** [Acessar Perfil](https://linkedin.com/in/denistostes) — Vamos nos conectar e conversar sobre oportunidades, negócios e eficiência.
