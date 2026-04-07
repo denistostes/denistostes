@@ -1,18 +1,23 @@
-# Olá! Eu sou o Denis Tostes 👋
+# Denis Tostes
 
 **Analista de Projetos Sênior | Dados, Automação & Eficiência Operacional**
 
-Sou um solucionador de problemas por natureza. Atuo como a ponte estratégica entre o Negócio e a Tecnologia, traduzindo desafios operacionais complexos em fluxos de trabalho inteligentes, pipelines de dados e automações.
+> Traduzindo problemas operacionais complexos em fluxos de trabalho inteligentes, automações e rentabilidade corporativa.
 
-### 🛠️ Minhas Ferramentas e Tecnologias
-* **Bancos de Dados & BI:** SQL, Databricks, Metabase, PostgreSQL, Looker Studio.
-* **Análise & Machine Learning:** Python (Pandas, Scikit-Learn), K-Means.
-* **Automação:** Google Apps Script, VBA, Webhooks.
-* **Gestão:** PMO, Metodologias Ágeis, Jira, PDCA.
+Sou um solucionador de problemas por natureza. Com mais de 10 anos de trajetória, uno o rigor da Engenharia de Produção, a visão estratégica da Gestão de Projetos e a precisão da Inteligência de Dados para atuar como a ponte definitiva entre Negócios e Tecnologia.
 
-### 🚀 O que você vai encontrar por aqui
-Neste GitHub, compartilho os códigos e as lógicas por trás das soluções que construo para proteger rentabilidade e escalar operações, incluindo scripts de automação, análises de dados e modelos preditivos.
+### O que eu construo na prática
+* **Inteligência Analítica:** Extração, modelagem e processamento avançado de grandes volumes de dados para embasar decisões estratégicas e criação de dashboards de negócio.
+* **Arquitetura de Processos:** Desenho de fluxos operacionais de ponta a ponta, otimizando performance em áreas críticas (ex: funis de venda e sistemas de discagem).
+* **Eficiência e Mitigação de Riscos:** Estruturação de controles robustos e lógicas de prevenção de falhas para identificar gargalos na raiz, reduzir custos e proteger o negócio.
+
+### Stack Tecnológico Principal
+* **Dados & Analytics:** SQL, Databricks, PostgreSQL, Python (Pandas, Scikit-Learn).
+* **Business Intelligence:** Metabase, Looker Studio, Apache Superset.
+* **Automação Corporativa:** Google Apps Script, VBA, Webhooks.
+* **Gestão e Processos:** PMO, Metodologias Ágeis, Jira, PDCA, Poka-yoke.
 
 ---
-🔗 **Quer ver meus projetos completos e documentados?** Acesse meu [Portfólio Técnico](https://denistostes.figma.site)
-📫 **Vamos conectar:** [LinkedIn](https://linkedin.com/in/denistostes)
+**[Acesse meu Portfólio Técnico](https://denistostes.figma.site)** para conhecer os bastidores dos meus projetos, códigos e arquiteturas operacionais.
+
+**[Conecte-se comigo no LinkedIn](https://linkedin.com/in/denistostes)**
